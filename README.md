@@ -85,7 +85,8 @@ https://www.youtube.com/watch?v=itWz3HadI4I
 
 Se adquirio conocimiento acerca de  la ley de Ohm y cómo utilizarla para resolver problemas de circuito junto con un método general para abordar la localización de fallas que consiste en analizar, planificar y medir
 Se evaluo la clasificacion de potencia de cada resistor y,se reemplazo el resistor con uno que tenga la adecuada capacidad de potencia.
-                                                                      6. BIBLIOGRAFÍA
+
+                                                                     6. BIBLIOGRAFÍA
 La ley de Ohm. (n.d.). Com.Mx. Retrieved May 26, 2022, from https://www.logicbus.com.mx/ley-de-ohm.php
 Cáceres, P. S. (2014, October 6). 2. Energía y Potencia Eléctrica. Blog de Tecnología - IES José Arencibia Gil - Telde. https://www3.gobiernodecanarias.org/medusa/ecoblog/fsancac/2014/10/06/energia-y-potencia-electrica/
 
